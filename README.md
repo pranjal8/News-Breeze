@@ -1,3 +1,6 @@
+![1](https://user-images.githubusercontent.com/67808377/121974534-39e80a80-cd9d-11eb-8957-b80b643d9430.jpg)
+![2](https://user-images.githubusercontent.com/67808377/121974537-3c4a6480-cd9d-11eb-9661-cb75c7706ded.jpg)
+
 # News-Breeze
 This is a News App. I build it using MVVM pattern. In this project I have used news API, retrofit, room database, viewmodel & livedata, 
 viewBinding, coroutines, fragments, bottom navigation bar, safe args, and much more...
